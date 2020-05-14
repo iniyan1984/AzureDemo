@@ -1,2 +1,2 @@
 # AzureDemo
-AzureDemo wiht repository with a Readme
+AzureDemo with repository with a Readme
